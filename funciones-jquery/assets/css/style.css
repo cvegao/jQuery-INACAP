@@ -1,0 +1,17 @@
+
+.red {
+    color: red;
+}
+
+#img-slidetoggle {
+    width: 400px;
+    display: none;
+}
+
+#btn-show {
+    display: none;
+}
+
+#result {
+    display: none;
+}
